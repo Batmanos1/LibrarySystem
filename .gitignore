@@ -1,0 +1,17 @@
+# Visual Studio cache and user-specific files
+.vs/
+*.user
+*.userprefs
+*.suo
+
+# Compiled build outputs
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Downloaded NuGet Packages
+packages/
+
+# OS generated hidden files
+.DS_Store
+Thumbs.db

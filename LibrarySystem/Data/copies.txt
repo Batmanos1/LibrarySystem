@@ -1,0 +1,74 @@
+003E9|The Art of Electronics|Paul Horowitz|Hardware|1
+003EA|The Art of Electronics|Paul Horowitz|Hardware|1
+003EB|The Art of Electronics|Paul Horowitz|Hardware|1
+003EC|The Art of Electronics|Paul Horowitz|Hardware|1
+003ED|The Art of Electronics|Paul Horowitz|Hardware|1
+003EE|Practical Electronics for Inventors|Paul Scherz|Hardware|1
+003EF|Practical Electronics for Inventors|Paul Scherz|Hardware|1
+003F0|Practical Electronics for Inventors|Paul Scherz|Hardware|1
+003F1|Practical Electronics for Inventors|Paul Scherz|Hardware|1
+003F2|Microelectronic Circuits|Adel S. Sedra|Hardware|1
+003F3|Microelectronic Circuits|Adel S. Sedra|Hardware|1
+003F4|Microelectronic Circuits|Adel S. Sedra|Hardware|1
+003F5|Fundamentals of Electric Circuits|Charles K. Alexander|Hardware|1
+003F6|Fundamentals of Electric Circuits|Charles K. Alexander|Hardware|1
+003F7|Fundamentals of Electric Circuits|Charles K. Alexander|Hardware|1
+003F8|Fundamentals of Electric Circuits|Charles K. Alexander|Hardware|1
+003F9|Arduino Cookbook|Michael Margolis|Hardware|1
+003FA|Arduino Cookbook|Michael Margolis|Hardware|1
+003FB|Arduino Cookbook|Michael Margolis|Hardware|1
+003FC|Arduino Cookbook|Michael Margolis|Hardware|1
+003FD|Arduino Cookbook|Michael Margolis|Hardware|1
+003FE|Digital Design|M. Morris Mano|Hardware|1
+003FF|Digital Design|M. Morris Mano|Hardware|1
+00400|Digital Design|M. Morris Mano|Hardware|1
+00401|The C++ Programming Language|Bjarne Stroustrup|Programming|1
+00402|The C++ Programming Language|Bjarne Stroustrup|Programming|1
+00403|The C++ Programming Language|Bjarne Stroustrup|Programming|1
+00404|The C++ Programming Language|Bjarne Stroustrup|Programming|1
+00405|Effective Modern C++|Scott Meyers|Programming|1
+00406|Effective Modern C++|Scott Meyers|Programming|1
+00407|Effective Modern C++|Scott Meyers|Programming|1
+00408|Clean Code|Robert C. Martin|Software|1
+00409|Clean Code|Robert C. Martin|Software|1
+0040A|Clean Code|Robert C. Martin|Software|1
+0040B|Clean Code|Robert C. Martin|Software|1
+0040C|Clean Code|Robert C. Martin|Software|1
+0040D|Design Patterns|Erich Gamma|Software|1
+0040E|Design Patterns|Erich Gamma|Software|1
+0040F|Design Patterns|Erich Gamma|Software|1
+00410|Godot Engine Game Development|Denis Kozlov|Game Design|1
+00411|Godot Engine Game Development|Denis Kozlov|Game Design|1
+00412|Godot Engine Game Development|Denis Kozlov|Game Design|1
+00413|Godot Engine Game Development|Denis Kozlov|Game Design|1
+00414|Game Programming Patterns|Robert Nystrom|Game Design|1
+00415|Game Programming Patterns|Robert Nystrom|Game Design|1
+00416|Game Programming Patterns|Robert Nystrom|Game Design|1
+00417|The Art of Game Design|Jesse Schell|Game Design|1
+00418|The Art of Game Design|Jesse Schell|Game Design|1
+00419|The Fashion Design Reference Book|Jay Calderin|Design|1
+0041A|The Fashion Design Reference Book|Jay Calderin|Design|1
+0041B|Patternmaking for Fashion Design|Helen Joseph Armstrong|Design|1
+0041C|Patternmaking for Fashion Design|Helen Joseph Armstrong|Design|1
+0041D|Fashion History|Linda Welters|History|1
+0041E|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1
+0041F|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1
+00420|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1
+00421|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1
+00422|Cosmos|Carl Sagan|Science|1
+00423|Cosmos|Carl Sagan|Science|1
+00424|Cosmos|Carl Sagan|Science|1
+00425|Packing for Mars|Mary Roach|Science|1
+00426|Packing for Mars|Mary Roach|Science|1
+00427|Dune|Frank Herbert|Fiction|1
+00428|Dune|Frank Herbert|Fiction|1
+00429|Dune|Frank Herbert|Fiction|1
+0042A|Dune|Frank Herbert|Fiction|1
+0042B|Dune|Frank Herbert|Fiction|1
+0042C|Neuromancer|William Gibson|Fiction|1
+0042D|Neuromancer|William Gibson|Fiction|1
+0042E|Neuromancer|William Gibson|Fiction|1
+0042F|The Martian|Andy Weir|Fiction|1
+00430|The Martian|Andy Weir|Fiction|1
+00431|The Martian|Andy Weir|Fiction|1
+00432|The Martian|Andy Weir|Fiction|1

@@ -1,0 +1,22 @@
+The Art of Electronics|Paul Horowitz|Hardware|5|5|0
+Practical Electronics for Inventors|Paul Scherz|Hardware|4|4|0
+Microelectronic Circuits|Adel S. Sedra|Hardware|3|3|0
+Fundamentals of Electric Circuits|Charles K. Alexander|Hardware|4|4|0
+Arduino Cookbook|Michael Margolis|Hardware|5|5|0
+Digital Design|M. Morris Mano|Hardware|3|3|0
+The C++ Programming Language|Bjarne Stroustrup|Programming|4|4|0
+Effective Modern C++|Scott Meyers|Programming|3|3|0
+Clean Code|Robert C. Martin|Software|5|5|0
+Design Patterns|Erich Gamma|Software|3|3|0
+Godot Engine Game Development|Denis Kozlov|Game Design|4|4|0
+Game Programming Patterns|Robert Nystrom|Game Design|3|3|0
+The Art of Game Design|Jesse Schell|Game Design|2|2|0
+The Fashion Design Reference Book|Jay Calderin|Design|2|2|0
+Patternmaking for Fashion Design|Helen Joseph Armstrong|Design|2|2|0
+Fashion History|Linda Welters|History|1|1|0
+Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|4|4|0
+Cosmos|Carl Sagan|Science|3|3|0
+Packing for Mars|Mary Roach|Science|2|2|0
+Dune|Frank Herbert|Fiction|5|5|0
+Neuromancer|William Gibson|Fiction|3|3|0
+The Martian|Andy Weir|Fiction|4|4|0

@@ -1,0 +1,15 @@
+﻿  LibrarySystem.cpp
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\Utils.h(58,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'LibrarySystem.cpp')
+  
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(148,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'LibrarySystem.cpp')
+  
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(480,32): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(480,32): warning C4267:         with
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(480,32): warning C4267:         [
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(480,32): warning C4267:             _Ty=int
+C:\Users\kamar\Desktop\University\LibrarySystem\LibrarySystem\LibrarySystem.h(480,32): warning C4267:         ]
+  (compiling source file 'LibrarySystem.cpp')
+  
+  LibrarySystem.vcxproj -> C:\Users\kamar\Desktop\University\LibrarySystem\x64\Debug\LibrarySystem.exe
